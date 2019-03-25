@@ -1,0 +1,11 @@
+﻿  Warehouse.cpp
+  main.cpp
+c:\users\tiyst\desktop\skl\aus_sm1\chipsandcrisps\main.cpp(59): warning C4189: 'ar': local variable is initialized but not referenced
+c:\users\tiyst\desktop\skl\aus_sm1\chipsandcrisps\main.cpp(151): warning C4239: nonstandard extension used: 'argument': conversion from 'std::string' to 'std::string &'
+  c:\users\tiyst\desktop\skl\aus_sm1\chipsandcrisps\main.cpp(151): note: A non-const reference may only be bound to an lvalue
+c:\users\tiyst\desktop\skl\aus_sm1\chipsandcrisps\main.cpp(152): warning C4239: nonstandard extension used: 'argument': conversion from 'std::string' to 'std::string &'
+  c:\users\tiyst\desktop\skl\aus_sm1\chipsandcrisps\main.cpp(152): note: A non-const reference may only be bound to an lvalue
+c:\users\tiyst\desktop\skl\aus_sm1\chipsandcrisps\main.cpp(153): warning C4239: nonstandard extension used: 'argument': conversion from 'std::string' to 'std::string &'
+  c:\users\tiyst\desktop\skl\aus_sm1\chipsandcrisps\main.cpp(153): note: A non-const reference may only be bound to an lvalue
+  Generating Code...
+  ChipsAndCrisps.vcxproj -> C:\Users\Tiyst\Desktop\skl\AUS_SM1\x64\Debug\AUS_SM1.exe
